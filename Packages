@@ -1,0 +1,9 @@
+Package: useradd
+Version: 1.0
+Maintainer: ablixa1337
+Architecture: iphoneos-arm
+Filename: .//debs/useradd_1.0-1_iphoneos-arm.deb
+Size: 884
+MD5sum: 1fe2ec6eee3c1d59e97fba3c99fe90c3
+Description: Simple program to make users in iOS
+
