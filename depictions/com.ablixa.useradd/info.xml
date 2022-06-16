@@ -1,0 +1,18 @@
+<packageInfo>
+    <bundleId>com.ablixa.useradd</bundleId>
+    <name>useradd</name>
+    <version>1.0</version>
+    <descriptions>
+        <description>
+            Simple iOS user creator
+        </description>
+    </descriptions>
+    <compatibility>
+        <miniOS>12.5.5</miniOS>
+        <maxiOS>14.4.2</maxiOS>
+    </compatibility>
+    <dependencies>
+        <dependency>None</dependency>
+    </dependencies>
+
+</packageInfo>
